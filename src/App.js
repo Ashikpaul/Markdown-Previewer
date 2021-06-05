@@ -40,7 +40,7 @@ export default function App() {
 
   return (
     <div className="App">
-      <h1 className="text-center m-4">Convert your Markdown</h1>
+      <h2 className="text-center m-4">Convert your Markdown</h2>
       <div className="row">
         <div className="col-6">
           <h4 className="text-center">Enter your markdown</h4>

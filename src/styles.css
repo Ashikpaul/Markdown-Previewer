@@ -6,10 +6,10 @@
 
 body{
   background-color: antiquewhite;
-  margin: 10px;
+  margin: 40px;
 }
 
-.App>h1{
+.App>h2{
   background-color: rgb(33, 199, 144);
   padding: 15px;
 }

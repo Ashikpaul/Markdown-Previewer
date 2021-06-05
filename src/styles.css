@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+  background-color: antiquewhite;
+  margin: 10px;
+}
+
+.App>h1{
+  background-color: rgb(33, 199, 144);
+  padding: 15px;
+}
+
+.previewSection{
+  background-color: white;
+}
+
+.previewSection img{
+  max-width: 100%;
+}
+
+textarea{
+  height: 100vh;
+}
